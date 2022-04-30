@@ -2,7 +2,7 @@
 
 ![Roadmap to Ml and dl](https://user-images.githubusercontent.com/81964452/166122054-845c7057-83fe-4060-b95b-092def0534f6.png)
 
-In this repo we share some of the best and most recent machine learning courses available on YouTube.
+In this repo, Some of the best and most recent machine learning courses.
 
 **Machine Learning**
 
