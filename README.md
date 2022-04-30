@@ -5,54 +5,54 @@ In this repo we share some of the best and most recent machine learning courses 
 **Machine Learning**
 
 - [Stanford CS229: Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#stanford-cs229-machine-learning)
-- [Making Friends with Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#making-friends-with-machine-learning)
-- [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
-- [Introduction to Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-machine-learning-Tübingen)
-- [Introduction to machine learning (Munich)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#Introduction-to-machine-learning-Munich)
-- [Statistical Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#statistical-machine-learning-Tübingen)
-- [Probabilistic Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#probabilistic-machine-learning)
+- [Making Friends with Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#making-friends-with-machine-learning)
+- [Applied Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#applied-machine-learning)
+- [Introduction to Machine Learning (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#introduction-to-machine-learning-Tübingen)
+- [Introduction to machine learning (Munich)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Introduction-to-machine-learning-Munich)
+- [Statistical Machine Learning (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#statistical-machine-learning-Tübingen)
+- [Probabilistic Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#probabilistic-machine-learning)
 
 **Deep Learning**
 
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
 - [Practical Deep Learning for Coders (2020)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning#practical-deep-learning-for-coders-2020)
-- [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
-- [Deep Learning: CS 182](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-cs-182)
-- [Deep Unsupervised Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-unsupervised-learning)
-- [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
-- [Deep Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-Tübingen)
-- [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
+- [Introduction to Deep Learning (MIT)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#introduction-to-deep-learning)
+- [Deep Learning: CS 182](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-learning-cs-182)
+- [Deep Unsupervised Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-unsupervised-learning)
+- [NYU Deep Learning SP21](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#nyu-deep-learning-sp21)
+- [Deep Learning (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-learning-Tübingen)
+- [Full Stack Deep Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#full-stack-deep-learning)
 
 **NLP**
 
-- [NLP Course (Hugging Face)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nlp-course-hugging-face)
-- [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
-- [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
-- [CS224U: Natural Language Understanding](https://github.com/dair-ai/ML-YouTube-Courses#cs224u-natural-language-understanding)
-- [CMU Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-advanced-nlp)
-- [Multilingual NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#multilingual-nlp)
-- [Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#advanced-nlp)
+- [NLP Course (Hugging Face)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#nlp-course-hugging-face)
+- [CS224N: Natural Language Processing with Deep Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
+- [CMU Neural Networks for NLP](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#cmu-neural-networks-for-nlp)
+- [CS224U: Natural Language Understanding](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more#cs224u-natural-language-understanding)
+- [CMU Advanced NLP](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#cmu-advanced-nlp)
+- [Multilingual NLP](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#multilingual-nlp)
+- [Advanced NLP](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#advanced-nlp)
 
 **Computer Vision**
 
-- [Deep Learning for Computer Vision](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision)
-- [Deep Learning for Computer Vision (DL4CV)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision-dl4cv)
+- [Deep Learning for Computer Vision](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-learning-for-computer-vision)
+- [Deep Learning for Computer Vision (DL4CV)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-learning-for-computer-vision-dl4cv)
 
 **Reinforcement Learning**
 
-- [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
-- [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-lecture-series-deepmind)
-- [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-polytechnique-montreal-fall-2021)
-- [Foundations of Deep RL](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#foundations-of-deep-rl)
+- [Deep Reinforcement Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-reinforcement-learning)
+- [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#reinforcement-learning-lecture-series-deepmind)
+- [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#reinforcement-learning-polytechnique-montreal-fall-2021)
+- [Foundations of Deep RL](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#foundations-of-deep-rl)
 
 **Graph ML**
 
-- [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
-- [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
+- [Machine Learning with Graphs (Stanford)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#machine-learning-with-graphs-stanford)
+- [AMMI Geometric Deep Learning Course (2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
 
 **Others**
 
-- [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
+- [Self-Driving Cars (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#self-driving-cars-Tübingen)
 
 ---
 
