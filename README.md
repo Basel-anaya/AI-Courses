@@ -4,7 +4,7 @@ In this repo we share some of the best and most recent machine learning courses 
 
 **Machine Learning**
 
-- [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
+- [Stanford CS229: Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#stanford-cs229-machine-learning)
 - [Making Friends with Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#making-friends-with-machine-learning)
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
 - [Introduction to Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-machine-learning-Tübingen)
