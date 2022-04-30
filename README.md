@@ -15,7 +15,7 @@ In this repo we share some of the best and most recent machine learning courses 
 **Deep Learning**
 
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
-- [Practical Deep Learning for Coders (2020)](https://github.com/Basel-anaya/MRoadmap-to-Machine-Learning-and-Deep-Learning#practical-deep-learning-for-coders-2020)
+- [Practical Deep Learning for Coders (2020)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning#practical-deep-learning-for-coders-2020)
 - [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
 - [Deep Learning: CS 182](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-cs-182)
 - [Deep Unsupervised Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-unsupervised-learning)
