@@ -513,11 +513,3 @@ A mini 6-lecture series by Pieter Abbeel.
 - Model-based RL
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
-
----
-
-Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
-
-If you are interested to contribute, feel free to open a PR with a link to the course. It will take a bit of time, but I have plans to do many things with these individual lectures. We can summarize the lectures, include notes, provide additional reading material, include difficulty of content, etc.
-
-You can now find ML Course notes [here](https://github.com/dair-ai/ML-Course-Notes).
