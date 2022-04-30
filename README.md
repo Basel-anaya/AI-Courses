@@ -1,33 +1,62 @@
-# Roadmap-to-Machine-Learning-and-Deep-Learning
-Courses on Youtube which enhance your knowledge in the Machine learning and Deep learning concepts with clear examples.
+# Roadmap-to-Machine-Learning-and-Deep-Learning-and-more
 
-# ♞ ML YouTube Courses
+In this repo we share some of the best and most recent machine learning courses available on YouTube.
 
-Course List:
+**Machine Learning**
 
 - [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
+- [Making Friends with Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#making-friends-with-machine-learning)
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
-- [Practical Deep Learning for Coders (2020)](https://github.com/dair-ai/ML-YouTube-Courses#practical-deep-learning-for-coders-2020)
-- [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
+- [Introduction to Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-machine-learning-Tübingen)
+- [Introduction to machine learning (Munich)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#Introduction-to-machine-learning-Munich)
+- [Statistical Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#statistical-machine-learning-Tübingen)
 - [Probabilistic Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#probabilistic-machine-learning)
+
+**Deep Learning**
+
+- [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
+- [Practical Deep Learning for Coders (2020)](https://github.com/Basel-anaya/MRoadmap-to-Machine-Learning-and-Deep-Learning#practical-deep-learning-for-coders-2020)
 - [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
 - [Deep Learning: CS 182](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-cs-182)
 - [Deep Unsupervised Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
+- [Deep Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-Tübingen)
+- [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
+
+**NLP**
+
+- [NLP Course (Hugging Face)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nlp-course-hugging-face)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
 - [CS224U: Natural Language Understanding](https://github.com/dair-ai/ML-YouTube-Courses#cs224u-natural-language-understanding)
 - [CMU Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-advanced-nlp)
 - [Multilingual NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#multilingual-nlp)
 - [Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#advanced-nlp)
+
+**Computer Vision**
+
 - [Deep Learning for Computer Vision](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision)
+- [Deep Learning for Computer Vision (DL4CV)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision-dl4cv)
+
+**Reinforcement Learning**
+
 - [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
-- [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
+- [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-lecture-series-deepmind)
+- [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-polytechnique-montreal-fall-2021)
+- [Foundations of Deep RL](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#foundations-of-deep-rl)
+
+**Graph ML**
+
+- [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
+
+**Others**
+
+- [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
 
 ---
 
-## ♞ Stanford CS229: Machine Learning
+## Stanford CS229: Machine Learning
 
 To learn some of the basics of ML:
 
@@ -43,7 +72,36 @@ To learn some of the basics of ML:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
-## ♞ Applied Machine Learning
+## Making Friends with Machine Learning
+
+A series of mini lectures covering various introductory topics in ML:
+
+- Explainability in AI
+- Classification vs. Regression
+- Precession vs. Recall
+- Statistical Significance
+- Clustering and K-means
+- Ensemble models
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
+
+## Stanford CS230: Deep Learning (2018)
+
+Covers the foundations of deep learning, how to build different neural networks(CNNs, RNNs, LSTMs, etc...), how to lead machine learning projects, and career advice for deep learning practitioners.
+
+- Deep Learning Intuition
+- Adversarial examples - GANs
+- Full-cycle of a Deep Learning Project
+- AI and Healthcare
+- Deep Learning Strategy
+- Interpretability of Neural Networks
+- Career Advice and Reading Research Papers
+- Deep Reinforcement Learning
+
+🔗 [Link to Course](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) 🔗 [Link to Materials](https://cs230.stanford.edu/syllabus/)
+
+## Applied Machine Learning
 
 To learn some of the most widely used techniques in ML:
 
@@ -57,7 +115,55 @@ To learn some of the most widely used techniques in ML:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
-## ♞ Practical Deep Learning for Coders (2020)
+## Introduction to Machine Learning (Tübingen)
+
+The course serves as a basic introduction to machine learning and covers key concepts in regression, classification, optimization, regularization, clustering, and dimensionality reduction.
+
+- Linear regression
+- Logistic regression
+- Regularization
+- Boosting
+- Neural networks
+- PCA
+- Clustering
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
+
+## Introduction to Machine Learning (Munich)
+
+Covers many supervised machine learning concepts.
+
+- Machine Learning Basics
+- Supervised Regression and Classification
+- Performance Evaluation
+- Classification and Regression Trees (CART)
+- Information Theory
+- Linear and Nonlinear Support Vector Machine
+- Gaussian Processes
+- ...
+
+🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(YouTube links are embedded within the chapters)
+
+## Statistical Machine Learning (Tübingen)
+
+The course covers the standard paradigms and algorithms in statistical machine learning.
+
+- KNN
+- Bayesian decision theory
+- Convex optimization
+- Linear and ridge regression
+- Logistic regression
+- SVM
+- Random Forests
+- Boosting
+- PCA
+- Clustering
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+
+## Practical Deep Learning for Coders (2020)
 
 After finishing this course you will know:
 
@@ -71,8 +177,7 @@ After finishing this course you will know:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
 
-
-## ♞ Machine Learning with Graphs (Stanford)
+## Machine Learning with Graphs (Stanford)
 
 To learn some of the latest graph techniques in machine learning:
 
@@ -86,7 +191,7 @@ To learn some of the latest graph techniques in machine learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
-## ♞ Probabilistic Machine Learning
+## Probabilistic Machine Learning
 
 To learn the probabilistic paradigm of ML:
 
@@ -101,7 +206,7 @@ To learn the probabilistic paradigm of ML:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 
-## ♞ Introduction to Deep Learning
+## Introduction to Deep Learning
 
 To learn some of the fundamentals of deep learning:
 
@@ -109,7 +214,7 @@ To learn some of the fundamentals of deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
-## ♞ Deep Learning: CS 182
+## Deep Learning: CS 182
 
 To learn some of the widely used techniques in deep learning:
 
@@ -125,7 +230,7 @@ To learn some of the widely used techniques in deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
-## ♞ Deep Unsupervised Learning
+## Deep Unsupervised Learning
 
 To learn the latest and most widely used techniques in deep unsupervised learning:
 
@@ -139,7 +244,7 @@ To learn the latest and most widely used techniques in deep unsupervised learnin
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
-## ♞ NYU Deep Learning SP21
+## NYU Deep Learning SP21
 
 To learn some of the advanced techniques in deep learning:
 
@@ -152,9 +257,37 @@ To learn some of the advanced techniques in deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 
-## ♞ CS224N: Natural Language Processing with Deep Learning
+## Deep Learning (Tübingen)
 
-To learn the latest approaches for deep leanring based NLP:
+This course introduces the practical and theoretical principles of deep neural networks.
+
+- Computation graphs
+- Activation functions and loss functions
+- Training, regularization and data augmentation
+- Basic and state-of-the-art deep neural network architectures including convolutional networks and graph neural networks
+- Deep generative models such as auto-encoders, variational auto-encoders and generative adversarial networks
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
+
+## NLP Course (Hugging Face)
+
+Learn about different NLP concepts and how to apply language models and Transformers to NLP:
+
+- What is Transfer Learning?
+- BPE Tokenization
+- Batching inputs
+- Fine-tuning models
+- Text embeddings and semantic search
+- Model evaluation
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
+
+## CS224N: Natural Language Processing with Deep Learning
+
+To learn the latest approaches for deep learning based NLP:
+
 - Dependency parsing
 - Language models and RNNs
 - Question Answering
@@ -166,9 +299,10 @@ To learn the latest approaches for deep leanring based NLP:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
-## ♞ CMU Neural Networks for NLP
+## CMU Neural Networks for NLP
 
 To learn the latest neural network based techniques for NLP:
+
 - Language Modeling
 - Efficiency tricks
 - Conditioned Generation
@@ -179,10 +313,11 @@ To learn the latest neural network based techniques for NLP:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 
-## ♞ CS224U: Natural Language Understanding
+## CS224U: Natural Language Understanding
 
 To learn the latest concepts in natural language understanding:
-- Grounded Langugage Understanding
+
+- Grounded Language Understanding
 - Relation Extraction
 - Natural Language Inference (NLI)
 - NLU and Neural Information Extraction
@@ -191,9 +326,10 @@ To learn the latest concepts in natural language understanding:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
 
-## ♞ CMU Advanced NLP
+## CMU Advanced NLP
 
 To learn:
+
 - Basics of modern NLP techniques
 - Multi-task, Multi-domain, multi-lingual learning
 - Prompting + Sequence-to-sequence pre-training
@@ -204,7 +340,7 @@ To learn:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
 
-## ♞ Multilingual NLP
+## Multilingual NLP
 
 To learn the latest concepts for doing multilingual NLP:
 
@@ -219,7 +355,7 @@ To learn the latest concepts for doing multilingual NLP:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
 
-## ♞ Advanced NLP
+## Advanced NLP
 
 To learn advanced concepts in NLP:
 
@@ -235,7 +371,7 @@ To learn advanced concepts in NLP:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
 
-## ♞ Deep Learning for Computer Vision
+## Deep Learning for Computer Vision
 
 To learn some of the fundamental concepts in CV:
 
@@ -249,7 +385,23 @@ To learn some of the fundamental concepts in CV:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
-## ♞ AMMI Geometric Deep Learning Course (2021)
+## Deep Learning for Computer Vision (DL4CV)
+
+To learn modern methods for computer vision:
+
+- CNNs
+- Advanced PyTorch
+- Understanding Neural Networks
+- RNN, Attention and ViTs
+- Generative Models
+- GPU Fundamentals
+- Self-Supervision
+- Neural Rendering
+- Efficient Architectures
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
+
+## AMMI Geometric Deep Learning Course (2021)
 
 To learn about concepts in geometric deep learning:
 
@@ -262,7 +414,7 @@ To learn about concepts in geometric deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
 
-## ♞ Deep Reinforcement Learning
+## Deep Reinforcement Learning
 
 To learn the latest concepts in deep RL:
 
@@ -276,7 +428,19 @@ To learn the latest concepts in deep RL:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
-## ♞ Full Stack Deep Learning
+## Reinforcement Learning Lecture Series (DeepMind)
+
+The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL Centre for Artificial Intelligence.
+
+- Introduction to RL
+- Dynamic Programming
+- Model-free algorithms
+- Deep reinforcement learning
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+
+## Full Stack Deep Learning
 
 To learn full-stack production deep learning:
 
@@ -292,23 +456,66 @@ To learn full-stack production deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
 
+## Introduction to Deep Learning and Deep Generative Models
 
-## ♞ Introduction to Deep Learning and Deep Generative Models
-
-Covers the fundamental concepts of deep learning 
+Covers the fundamental concepts of deep learning
 
 - Single-layer neural networks and gradient descent
-- Multi-layer neura networks and backpropagation
+- Multi-layer neural networks and backpropagation
 - Convolutional neural networks for images
 - Recurrent neural networks for text
-- autoencoders, variational autoencoders, and generative adversarial networks
-- encoder-decoder recurrent neural networks and transformers
+- Autoencoders, variational autoencoders, and generative adversarial networks
+- Encoder-decoder recurrent neural networks and transformers
 - PyTorch code examples
 
 🔗 [Link to Course](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)  🔗 [Link to Materials](https://sebastianraschka.com/blog/2021/dl-course.html)
 
+## Self-Driving Cars (Tübingen)
+
+Covers the most dominant paradigms of self-driving cars: modular pipeline-based approaches as well as deep-learning based end-to-end driving techniques.
+
+- Camera, lidar and radar-based perception
+- Localization, navigation, path planning
+- Vehicle modeling/control
+- Deep Learning
+- Imitation learning
+- Reinforcement learning
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+
+## Reinforcement Learning (Polytechnique Montreal, Fall 2021)
+
+Designing autonomous decision making systems is one of the longstanding goals of Artificial Intelligence. Such decision making systems, if realized, can have a big impact in machine learning for robotics, game playing, control, health care to name a few. This course introduces Reinforcement Learning as a general framework to design such autonomous decision making systems.
+
+- Introduction to RL
+- Multi-armed bandits
+- Policy Gradient Methods
+- Contextual Bandits
+- Finite Markov Decision Process
+- Dynamic Programming
+- Policy Iteration, Value Iteration
+- Monte Carlo Methods
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)  🔗 [Link to Materials](https://chandar-lab.github.io/INF8953DE/)
+
+## Foundations of Deep RL
+
+A mini 6-lecture series by Pieter Abbeel.
+
+- MDPs, Exact Solution Methods, Max-ent RL
+- Deep Q-Learning
+- Policy Gradients and Advantage Estimation
+- TRPO and PPO
+- DDPG and SAC
+- Model-based RL
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
+
 ---
 
-## ♞ What's Next?
+Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
 
-There are many plans to keep improving this collection. For instance, I will be sharing notes and better organizing individual lectures in a way that provides a bit of guidance for those that are getting started with machine learning. 
+If you are interested to contribute, feel free to open a PR with a link to the course. It will take a bit of time, but I have plans to do many things with these individual lectures. We can summarize the lectures, include notes, provide additional reading material, include difficulty of content, etc.
+
+You can now find ML Course notes [here](https://github.com/dair-ai/ML-Course-Notes).
