@@ -30,7 +30,7 @@ In this repo, Some of the best and most recent machine learning courses.
 - [NYU Deep Learning SP21](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#nyu-deep-learning-sp21)
 - [Deep Learning (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-learning-Tübingen)
 - [Full Stack Deep Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#full-stack-deep-learning)
-
+ 
 **NLP**
 
 - [NLP Course (Hugging Face)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#nlp-course-hugging-face)
@@ -45,6 +45,7 @@ In this repo, Some of the best and most recent machine learning courses.
 
 - [Deep Learning for Computer Vision](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-learning-for-computer-vision)
 - [Deep Learning for Computer Vision (DL4CV)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-learning-for-computer-vision-dl4cv)
+- [Convolutional Neural Networks for Visual Recognition](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Convolution-Neural-Networks-For-Visual-Recognition)
 
 **Reinforcement Learning**
 
@@ -550,7 +551,7 @@ This course introduces students to representations, techniques, and architecture
 
 ## Machine Learning for Healthcare
 
-...
+This course introduces students to machine learning in healthcare, including the nature of clinical data and the use of machine learning for risk stratification, disease progression modeling, precision medicine, diagnosis, subtype discovery, and improving clinical workflows.
 
 - What makes Healthcare unique?
 - Deep dive into clinical data
@@ -565,3 +566,22 @@ This course introduces students to representations, techniques, and architecture
 - ...
 
 🔗 [Link to Course](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/)
+
+## Convolutional Neural Networks for Visual Recognition
+
+introduction to the field of computer vision, discussing its history and key challenges. We emphasize that computer vision encompasses a wide variety of different tasks, and that despite the recent successes of deep learning we are still a long way from realizing the goal of human-level visual intelligence.
+
+- Cambrian Explosion
+- Camera Obscura
+- Hubel and Wiesel
+- Normalized Cut
+- Face Detection
+- Spatial Pyramid Matching
+- Histogram of Oriented Gradients
+- ImageNet Challenge
+- PASCAL Visual Object Challenge
+- ...
+
+🔗 [Link to Course](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+
