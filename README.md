@@ -51,7 +51,8 @@ In this repo, Some of the best and most recent machine learning courses.
 
 - [Machine Learning with Graphs (Stanford)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#machine-learning-with-graphs-stanford)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
-- [CS520: Knowledge Graphs Seminar (Spring 2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Knowledge-Graphs-stanford-2021)
+- [CS520: Knowledge Graphs Seminar (Spring 2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Knowledge-Graphs)
+
 **Others**
 
 - [Self-Driving Cars (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#self-driving-cars-Tübingen)
@@ -514,7 +515,7 @@ A mini 6-lecture series by Pieter Abbeel.
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
 
-## Knowledge Graphs
+## Knowledge Graphs 
 
 Knowledge graphs have emerged as a compelling abstraction for organizing world's structured knowledge over the internet, and a way to integrate information extracted from multiple data sources. Knowledge graphs have also started to play a central role in machine learning as a method to incorporate world knowledge.
 
