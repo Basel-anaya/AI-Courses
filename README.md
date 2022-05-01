@@ -516,14 +516,13 @@ A mini 6-lecture series by Pieter Abbeel.
 
 ## Knowledge Graphs
 
-...
+Knowledge graphs have emerged as a compelling abstraction for organizing world's structured knowledge over the internet, and a way to integrate information extracted from multiple data sources. Knowledge graphs have also started to play a central role in machine learning as a method to incorporate world knowledge.
 
--
--
--
--
--
--
--
+- Knowledge Graph Definition
+- Applications of Knowledge Graphs
+- Knowledge Graphs for Data Integration in Enterprises
+- Knowledge Graphs in Artificial Intelligence
+- Knowledge Graphs as the output of Machine Learning
+- ...
 
 🔗 [Link to Course](https://youtube.com/playlist?list=PLDhh0lALedc5paY4N3NRZ3j_ui9foL7Qc)
