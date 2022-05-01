@@ -12,6 +12,7 @@ In this repo, Some of the best and most recent machine learning courses.
 **Machine Learning**
 
 - [Stanford CS229: Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#stanford-cs229-machine-learning)
+- [6-s897-machine-learning-for-healthcare-spring-2019](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Machine-Learning-For-Healthcare)
 - [Making Friends with Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#making-friends-with-machine-learning)
 - [Applied Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#applied-machine-learning)
 - [Introduction to Machine Learning (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#introduction-to-machine-learning-Tübingen)
@@ -545,4 +546,22 @@ This course introduces students to representations, techniques, and architecture
 - SVM, Model Merging, Cross-Modal Coupling
 - ...
 
-[Link to Course](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/lecture-videos/)
+🔗 [Link to Course](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/lecture-videos/)
+
+## Machine Learning for Healthcare
+
+...
+
+- What makes Healthcare unique?
+- Deep dive into clinical data
+- Risk Stratification
+- Natural Language Processing
+- Application of ML to Cardiac Imaging
+- ML for Pathology
+- Causal inference
+- Reinforcement Learning
+- Disease Progressing Modeling and Subtyping
+- Robustness to Dataset shift
+- ...
+
+🔗 [Link to Course](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/)
