@@ -6,7 +6,7 @@ In this repo, Some of the best and most recent machine learning courses.
 
 **Artificial Intelligence**
 
-- [6-034 MIT Artificial Intelligence](https://github/basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#artificial-intelligence-mit)
+- [6-034 MIT Artificial Intelligence](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#artificial-intelligence-mit)
 
 
 **Machine Learning**
