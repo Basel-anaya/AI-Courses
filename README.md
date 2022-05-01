@@ -4,6 +4,11 @@
 
 In this repo, Some of the best and most recent machine learning courses.
 
+**Artificial Intelligence**
+
+- [6-034 MIT artificial intelligence](https://github/basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Artificial-Intelligence-MIT)
+
+
 **Machine Learning**
 
 - [Stanford CS229: Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#stanford-cs229-machine-learning)
@@ -527,3 +532,17 @@ Knowledge graphs have emerged as a compelling abstraction for organizing world's
 - ...
 
 🔗 [Link to Course](https://youtube.com/playlist?list=PLDhh0lALedc5paY4N3NRZ3j_ui9foL7Qc)
+
+## Artificial Intelligence MIT
+
+This course introduces students to representations, techniques, and architectures used to build applied systems and to account for intelligence from a computational point of view. Students learn applications of rule chaining, heuristic search, constrain propagation, constrained search, inheritance, and other problem-solving paradigms. They also learn applications of identification trees, neural nets, genetic algorithms, support-vector machines, boosting, and other learning paradigms.
+
+- Search: depth-first, breadth-first, hill-climbing, beam, branch and bound, A*
+- Constrains: Interpreting line drawings, Visuall object recognition, Domain reduction
+- Nearest Neighbors
+- Identification Trees
+- Neural nets, Deep neural nets
+- SVM, Model Merging, Cross-Modal Coupling
+- ...
+
+[Link to Course](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/lecture-videos/)
