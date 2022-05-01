@@ -51,7 +51,7 @@ In this repo, Some of the best and most recent machine learning courses.
 
 - [Machine Learning with Graphs (Stanford)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#machine-learning-with-graphs-stanford)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
-
+- [CS520: Knowledge Graphs Seminar (Spring 2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Knowledge-Graphs-stanford-2021)
 **Others**
 
 - [Self-Driving Cars (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#self-driving-cars-Tübingen)
@@ -513,3 +513,17 @@ A mini 6-lecture series by Pieter Abbeel.
 - Model-based RL
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
+
+## Knowledge Graphs
+
+...
+
+-
+-
+-
+-
+-
+-
+-
+
+🔗 [Link to Course](https://youtube.com/playlist?list=PLDhh0lALedc5paY4N3NRZ3j_ui9foL7Qc)
