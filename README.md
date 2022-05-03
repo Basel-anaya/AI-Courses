@@ -54,6 +54,7 @@ In this repo, Some of the best and most recent courses.
 - [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#reinforcement-learning-polytechnique-montreal-fall-2021)
 - [Foundations of Deep RL](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#foundations-of-deep-rl)
 
+
 **Graph ML**
 
 - [Machine Learning with Graphs (Stanford)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#machine-learning-with-graphs-stanford)
@@ -82,6 +83,8 @@ To learn some of the basics of ML:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
+---
+
 ## Making Friends with Machine Learning
 
 A series of mini lectures covering various introductory topics in ML:
@@ -95,6 +98,8 @@ A series of mini lectures covering various introductory topics in ML:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
+
+---
 
 ## Stanford CS230: Deep Learning (2018)
 
@@ -111,6 +116,8 @@ Covers the foundations of deep learning, how to build different neural networks(
 
 🔗 [Link to Course](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) 🔗 [Link to Materials](https://cs230.stanford.edu/syllabus/)
 
+---
+
 ## Applied Machine Learning
 
 To learn some of the most widely used techniques in ML:
@@ -124,6 +131,8 @@ To learn some of the most widely used techniques in ML:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+
+---
 
 ## Introduction to Machine Learning (Tübingen)
 
@@ -140,6 +149,8 @@ The course serves as a basic introduction to machine learning and covers key con
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 
+---
+
 ## Introduction to Machine Learning (Munich)
 
 Covers many supervised machine learning concepts.
@@ -154,6 +165,8 @@ Covers many supervised machine learning concepts.
 - ...
 
 🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(YouTube links are embedded within the chapters)
+
+---
 
 ## Statistical Machine Learning (Tübingen)
 
@@ -173,6 +186,8 @@ The course covers the standard paradigms and algorithms in statistical machine l
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 
+---
+
 ## Practical Deep Learning for Coders (2020)
 
 After finishing this course you will know:
@@ -187,6 +202,8 @@ After finishing this course you will know:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
 
+---
+
 ## Machine Learning with Graphs (Stanford)
 
 To learn some of the latest graph techniques in machine learning:
@@ -200,6 +217,8 @@ To learn some of the latest graph techniques in machine learning:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+
+---
 
 ## Probabilistic Machine Learning
 
@@ -216,6 +235,8 @@ To learn the probabilistic paradigm of ML:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 
+---
+
 ## Introduction to Deep Learning
 
 To learn some of the fundamentals of deep learning:
@@ -223,6 +244,8 @@ To learn some of the fundamentals of deep learning:
 - Introduction to Deep Learning
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+---
 
 ## Deep Learning: CS 182
 
@@ -240,6 +263,8 @@ To learn some of the widely used techniques in deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
+---
+
 ## Deep Unsupervised Learning
 
 To learn the latest and most widely used techniques in deep unsupervised learning:
@@ -254,6 +279,8 @@ To learn the latest and most widely used techniques in deep unsupervised learnin
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
+---
+
 ## NYU Deep Learning SP21
 
 To learn some of the advanced techniques in deep learning:
@@ -266,6 +293,8 @@ To learn some of the advanced techniques in deep learning:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+
+---
 
 ## Deep Learning (Tübingen)
 
@@ -280,6 +309,8 @@ This course introduces the practical and theoretical principles of deep neural n
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
 
+---
+
 ## NLP Course (Hugging Face)
 
 Learn about different NLP concepts and how to apply language models and Transformers to NLP:
@@ -293,6 +324,8 @@ Learn about different NLP concepts and how to apply language models and Transfor
 - ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
+
+---
 
 ## CS224N: Natural Language Processing with Deep Learning
 
@@ -309,6 +342,8 @@ To learn the latest approaches for deep learning based NLP:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
+---
+
 ## CMU Neural Networks for NLP
 
 To learn the latest neural network based techniques for NLP:
@@ -323,6 +358,8 @@ To learn the latest neural network based techniques for NLP:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 
+---
+
 ## CS224U: Natural Language Understanding
 
 To learn the latest concepts in natural language understanding:
@@ -335,6 +372,8 @@ To learn the latest concepts in natural language understanding:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
+
+---
 
 ## CMU Advanced NLP
 
@@ -350,6 +389,8 @@ To learn:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
 
+---
+
 ## Multilingual NLP
 
 To learn the latest concepts for doing multilingual NLP:
@@ -364,6 +405,8 @@ To learn the latest concepts for doing multilingual NLP:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
+
+---
 
 ## Advanced NLP
 
@@ -381,6 +424,8 @@ To learn advanced concepts in NLP:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
 
+---
+
 ## Deep Learning for Computer Vision
 
 To learn some of the fundamental concepts in CV:
@@ -394,6 +439,8 @@ To learn some of the fundamental concepts in CV:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+
+---
 
 ## Deep Learning for Computer Vision (DL4CV)
 
@@ -411,6 +458,8 @@ To learn modern methods for computer vision:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
 
+---
+
 ## AMMI Geometric Deep Learning Course (2021)
 
 To learn about concepts in geometric deep learning:
@@ -423,6 +472,8 @@ To learn about concepts in geometric deep learning:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
+
+---
 
 ## Deep Reinforcement Learning
 
@@ -438,6 +489,8 @@ To learn the latest concepts in deep RL:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
+---
+
 ## Reinforcement Learning Lecture Series (DeepMind)
 
 The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL Centre for Artificial Intelligence.
@@ -449,6 +502,8 @@ The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+
+---
 
 ## Full Stack Deep Learning
 
@@ -466,6 +521,8 @@ To learn full-stack production deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
 
+---
+
 ## Introduction to Deep Learning and Deep Generative Models
 
 Covers the fundamental concepts of deep learning
@@ -480,6 +537,8 @@ Covers the fundamental concepts of deep learning
 
 🔗 [Link to Course](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)  🔗 [Link to Materials](https://sebastianraschka.com/blog/2021/dl-course.html)
 
+---
+
 ## Self-Driving Cars (Tübingen)
 
 Covers the most dominant paradigms of self-driving cars: modular pipeline-based approaches as well as deep-learning based end-to-end driving techniques.
@@ -492,6 +551,8 @@ Covers the most dominant paradigms of self-driving cars: modular pipeline-based 
 - Reinforcement learning
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+
+---
 
 ## Reinforcement Learning (Polytechnique Montreal, Fall 2021)
 
@@ -509,6 +570,8 @@ Designing autonomous decision making systems is one of the longstanding goals of
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)  🔗 [Link to Materials](https://chandar-lab.github.io/INF8953DE/)
 
+---
+
 ## Foundations of Deep RL
 
 A mini 6-lecture series by Pieter Abbeel.
@@ -521,6 +584,8 @@ A mini 6-lecture series by Pieter Abbeel.
 - Model-based RL
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
+
+---
 
 ## Knowledge Graphs 
 
@@ -535,6 +600,8 @@ Knowledge graphs have emerged as a compelling abstraction for organizing world's
 
 🔗 [Link to Course](https://youtube.com/playlist?list=PLDhh0lALedc5paY4N3NRZ3j_ui9foL7Qc)
 
+---
+
 ## Artificial Intelligence MIT
 
 This course introduces students to representations, techniques, and architectures used to build applied systems and to account for intelligence from a computational point of view. Students learn applications of rule chaining, heuristic search, constrain propagation, constrained search, inheritance, and other problem-solving paradigms. They also learn applications of identification trees, neural nets, genetic algorithms, support-vector machines, boosting, and other learning paradigms.
@@ -548,6 +615,8 @@ This course introduces students to representations, techniques, and architecture
 - ...
 
 🔗 [Link to Course](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/lecture-videos/)
+
+---
 
 ## Machine Learning for Healthcare
 
@@ -567,6 +636,8 @@ This course introduces students to machine learning in healthcare, including the
 
 🔗 [Link to Course](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/)
 
+---
+
 ## Convolutional Neural Networks for Visual Recognition
 
 introduction to the field of computer vision, discussing its history and key challenges. We emphasize that computer vision encompasses a wide variety of different tasks, and that despite the recent successes of deep learning we are still a long way from realizing the goal of human-level visual intelligence.
@@ -584,4 +655,4 @@ introduction to the field of computer vision, discussing its history and key cha
 
 🔗 [Link to Course](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-
+---
