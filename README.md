@@ -1,8 +1,8 @@
-# Roadmap-to-Machine-Learning-and-Deep-Learning-and-more
+# Courses for AI, ML, DL and many more.. 
 
 ![Roadmap to Ml and dl](https://user-images.githubusercontent.com/81964452/166122054-845c7057-83fe-4060-b95b-092def0534f6.png)
 
-In this repo, Some of the best and most recent machine learning courses.
+In this repo, Some of the best and most recent courses.
 
 **Artificial Intelligence**
 
