@@ -1,6 +1,6 @@
 # Courses for AI, ML, DL and many more.. 
 
-![Roadmap to Ml and dl](https://user-images.githubusercontent.com/81964452/166122054-845c7057-83fe-4060-b95b-092def0534f6.png)
+![AI Courses](https://user-images.githubusercontent.com/81964452/166587704-ffd0fe12-2646-4418-af38-b2440c47c377.png)
 
 In this repo, Some of the best and most recent courses.
 
