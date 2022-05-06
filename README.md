@@ -19,6 +19,7 @@ In this repo, Some of the best and most recent courses.
 - [Introduction to machine learning (Munich)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Introduction-to-machine-learning-Munich)
 - [Statistical Machine Learning (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#statistical-machine-learning-Tübingen)
 - [Probabilistic Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#probabilistic-machine-learning)
+- [Machine vision fall 2020](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Machine-Vision-Fall-2020)
 
 **Deep Learning**
 
@@ -673,3 +674,20 @@ As an introductory course on data mining, this course introduces the concepts, a
 - Cluster Analysis: Basic Concepts
 
 🔗 [Link to Course](https://wiki.illinois.edu//wiki/display/cs412/2.+Course+Syllabus+and+Schedule)
+
+---
+
+## Machine Vision Fall 2020
+
+This course focuses on machine vision. Topics include:
+
+- Deriving a symbolic description of the environment from an image.
+- Understanding physics of image formation.
+- Image analysis as an inversion problem.
+- Binary image processing and filtering of images as preprocessing steps.
+- Recovering shape, lightness, orientation, and motion.
+- Using constraints to reduce the ambiguity.
+- Photometric stereo and extended Gaussian sphere.
+- Applications to robotics; intelligent interaction of machines with their environment.
+
+🔗 [Link to Course](https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/lecture-notes/)
