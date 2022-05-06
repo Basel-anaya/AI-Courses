@@ -64,6 +64,7 @@ In this repo, Some of the best and most recent courses.
 **Others**
 
 - [Self-Driving Cars (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#self-driving-cars-Tübingen)
+- [Introduction to Data Mining Fall 2017](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Introduction-to-Data-mining)
 
 ---
 
@@ -656,3 +657,19 @@ introduction to the field of computer vision, discussing its history and key cha
 🔗 [Link to Course](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ---
+
+## Introduction to Data mining
+
+As an introductory course on data mining, this course introduces the concepts, algorithms, techniques, and systems of data warehousing and data mining, including (1) what is data mining? (2) get to know your data, (3) data preprocessing, integration and transformation, (4) design and implementation of data warehouse and OLAP systems, (5) data cube technology, (6&7) mining frequent patterns and assoication: basic concepts and advanced methods, (8&9) classification: basic concepts and advanced techniques, and (10) cluster analysis: basic concepts.
+
+- Introduction
+- Know Your Data
+- Data Preprocessing
+- Data Warehousing & OLAP
+- Data Cube Technology
+- Mining Frequent Patterns and Associations: Basic Concepts
+- Classification: Basic Concepts
+- Classification: Advanced Methods
+- Cluster Analysis: Basic Concepts
+
+🔗 [Link to Course](https://wiki.illinois.edu//wiki/display/cs412/2.+Course+Syllabus+and+Schedule)
