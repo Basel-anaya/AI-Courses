@@ -67,7 +67,7 @@ In this repo, Some of the best and most recent courses.
 - [Self-Driving Cars (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#self-driving-cars-Tübingen)
 - [Introduction to Data Mining Fall 2017](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Introduction-to-Data-mining)
 - [Computer Architecture Fall 2018](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Computer-Architecture-Fall-2018)
-
+- [6.858 Computer systems Security](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#6.858-Computer-Systems-Security)
 ---
 
 ## Stanford CS229: Machine Learning
@@ -712,5 +712,21 @@ Computer Architecture has several goals:
 🔗 [Link to Course](https://wiki.illinois.edu/wiki/display/cs233fa18/Lectures)
 
 Note: This course contains only Lecture notes without any Videos
+
+---
+
+## 6.858 Computer Systems Security
+
+Computer Security studies the design and implementation of secure computer systems. Lectures cover threat models, attacks that compromise security, and techniques for achieving security, based on recent research papers. Topics include operating system (OS) security, capabilities, information flow control, language security, network protocols, hardware security, and security in web applications.
+
+- Introduction
+- Control Hijacking Attacks
+- Buffer Overflow Exploits and Defenses
+- Privilege Separation
+- Capabilities
+- Sandboxing Web Applications
+- ...
+
+🔗 [Link to Course](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/video_galleries/video-lectures/)
 
 ---
