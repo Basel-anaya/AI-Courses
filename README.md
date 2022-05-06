@@ -66,6 +66,7 @@ In this repo, Some of the best and most recent courses.
 
 - [Self-Driving Cars (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#self-driving-cars-Tübingen)
 - [Introduction to Data Mining Fall 2017](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Introduction-to-Data-mining)
+- [Computer Architecture Fall 2018](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Computer-Architecture-Fall-2018)
 
 ---
 
@@ -675,6 +676,8 @@ As an introductory course on data mining, this course introduces the concepts, a
 
 🔗 [Link to Course](https://wiki.illinois.edu//wiki/display/cs412/2.+Course+Syllabus+and+Schedule)
 
+Note: This course only has Lecture notes without any Videos
+
 ---
 
 ## Machine Vision Fall 2020
@@ -691,3 +694,23 @@ This course focuses on machine vision. Topics include:
 - Applications to robotics; intelligent interaction of machines with their environment.
 
 🔗 [Link to Course](https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/lecture-notes/)
+
+Note: This course only has Lecture notes without any Videos
+
+---
+
+## Computer Architecture Fall 2018
+
+Computer Architecture has several goals:
+
+- Grasp basic principles of combinational and sequential logic design.
+- Have a high-level understanding of how to design a general-purpose computer, starting with simple logic gates.
+- To provide you with a mental model of how high-level language programs get executed on computer hardware
+- To introduce you to the organization and performance analysis of modern computers,
+- Expose you to the hardware-level mechanisms for exposing parallelism.
+
+🔗 [Link to Course](https://wiki.illinois.edu/wiki/display/cs233fa18/Lectures)
+
+Note: This course only has Lecture notes without any Videos
+
+---
