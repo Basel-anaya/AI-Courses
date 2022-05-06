@@ -676,7 +676,7 @@ As an introductory course on data mining, this course introduces the concepts, a
 
 🔗 [Link to Course](https://wiki.illinois.edu//wiki/display/cs412/2.+Course+Syllabus+and+Schedule)
 
-Note: This course only has Lecture notes without any Videos
+Note: This course contains only Lecture notes without any Videos
 
 ---
 
@@ -695,7 +695,7 @@ This course focuses on machine vision. Topics include:
 
 🔗 [Link to Course](https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/lecture-notes/)
 
-Note: This course only has Lecture notes without any Videos
+Note: This course contains only Lecture notes without any Videos
 
 ---
 
@@ -711,6 +711,6 @@ Computer Architecture has several goals:
 
 🔗 [Link to Course](https://wiki.illinois.edu/wiki/display/cs233fa18/Lectures)
 
-Note: This course only has Lecture notes without any Videos
+Note: This course contains only Lecture notes without any Videos
 
 ---
