@@ -32,7 +32,7 @@ In this repo, Some of the best and most recent courses.
 - [Deep Learning (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#deep-learning-Tübingen)
 - [Full Stack Deep Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#full-stack-deep-learning)
  
-**NLP**
+**Natural Language Processing**
 
 - [NLP Course (Hugging Face)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#nlp-course-hugging-face)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
