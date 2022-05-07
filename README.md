@@ -41,6 +41,7 @@ In this repo, Some of the best and most recent courses.
 - [CMU Advanced NLP](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#cmu-advanced-nlp)
 - [Multilingual NLP](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#multilingual-nlp)
 - [Advanced NLP](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#advanced-nlp)
+- [Text Mining and Analytics](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Text-Mining-and-Analytics)
 
 **Computer Vision**
 
@@ -62,12 +63,17 @@ In this repo, Some of the best and most recent courses.
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
 - [CS520: Knowledge Graphs Seminar (Spring 2021)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Knowledge-Graphs)
 
+**Data Mining**
+
+- [Introduction to Data Mining Fall 2017](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Introduction-to-Data-mining)
+
+
 **Others**
 
 - [Self-Driving Cars (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#self-driving-cars-Tübingen)
-- [Introduction to Data Mining Fall 2017](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Introduction-to-Data-mining)
 - [Computer Architecture Fall 2018](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Computer-Architecture-Fall-2018)
 - [6.858 Computer systems Security](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#6.858-Computer-Systems-Security)
+
 ---
 
 ## Stanford CS229: Machine Learning
@@ -728,5 +734,21 @@ Computer Security studies the design and implementation of secure computer syste
 - ...
 
 🔗 [Link to Course](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/video_galleries/video-lectures/)
+
+---
+
+## Text mining and Analytics
+
+This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort.
+
+- Overview Text Mining and Analytics
+- Natural language content analysis
+- Text Representation
+- Word Association Mining and Analysis
+- Paradigmatic Relation Discovery
+- Syntagmatic Relation Discovery Entropy
+- ...
+
+🔗 [Link to Course](https://youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt)
 
 ---
