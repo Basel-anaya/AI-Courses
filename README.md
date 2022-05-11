@@ -1,6 +1,6 @@
 # Courses for AI, ML, DL and many more.. 
 
-![AI Courses](https://user-images.githubusercontent.com/81964452/166587704-ffd0fe12-2646-4418-af38-b2440c47c377.png)
+![AI Courses](https://user-images.githubusercontent.com/81964452/167932446-fc4e4f2b-1d9a-4a56-9183-c2bed61b9f72.png)
 
 In this repo, Some of the best and most recent courses.
 
