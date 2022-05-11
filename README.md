@@ -68,11 +68,12 @@ In this repo, Some of the best and most recent courses.
 - [Introduction to Data Mining Fall 2017](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Introduction-to-Data-mining)
 
 
-**Others**
+**Related to Artificial Intelligence**
 
 - [Self-Driving Cars (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#self-driving-cars-Tübingen)
 - [Computer Architecture Fall 2018](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Computer-Architecture-Fall-2018)
 - [6.858 Computer systems Security](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#6.858-Computer-Systems-Security)
+- [Computational Cognitive Neuroscience](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Computational-Cognitive-Neuroscience)
 
 ---
 
@@ -752,3 +753,22 @@ This course will cover the major techniques for mining and analyzing text data t
 🔗 [Link to Course](https://youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt)
 
 ---
+
+## Computational Cognitive Neuroscience
+
+introduction to the field of Computational Cognitive Neuroscience, where computer models of the brain are used to understand a wide range of cognitive functions, including perception, attention, motor control, learning, memory, language, and executive function.
+
+- Introduction to Emergance
+- Phenomena
+- Detector model
+- Pandemonium
+- Dimensions
+- Neurons in the dark
+- ...
+
+🔗 [Link to the Book](https://github.com/CompCogNeuro/ed4/releases/download/v1.0.0/ccnbook_ed4.pdf)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLu02O8xRZn7xtNx03Rlq6xMRdYcQgEpar)
+
+---
+
+
