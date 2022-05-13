@@ -7,7 +7,7 @@ In this repo, Some of the best and most recent courses.
 **Artificial Intelligence**
 
 - [6-034 MIT Artificial Intelligence](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#artificial-intelligence-mit)
-
+-[CS 188 Introduction to Artificial Intelligence-2014](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#CS-188-Introduction-to-Artificial-Intelligence)
 
 **Machine Learning**
 
@@ -771,4 +771,17 @@ introduction to the field of Computational Cognitive Neuroscience, where compute
 
 ---
 
+## CS 188 Introduction to Artificial Intelligence
 
+Introduction to Artificial Intelligence by UC Berkeley.
+
+- Introduction to AI
+- Uninformed Search
+- A* Search and Heuristics
+- Markov Decision Processes
+- Reinforcement Learning
+- ...
+
+🔗 [Link to Course](https://web.archive.org/web/20181028164124/http://ai.berkeley.edu/course_schedule.html)
+
+---
