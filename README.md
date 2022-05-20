@@ -7,7 +7,7 @@ In this repo, Some of the best and most recent courses.
 **Artificial Intelligence**
 
 - [6-034 MIT Artificial Intelligence](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#artificial-intelligence-mit)
--[CS 188 Introduction to Artificial Intelligence-2014](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#CS-188-Introduction-to-Artificial-Intelligence)
+- [CS 188 Introduction to Artificial Intelligence-2014](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#CS-188-Introduction-to-Artificial-Intelligence)
 
 **Machine Learning**
 
