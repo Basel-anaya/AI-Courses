@@ -7,6 +7,7 @@ In this repo, Some of the best and most recent courses.
 **Artificial Intelligence**
 
 - [6-034 MIT Artificial Intelligence](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#artificial-intelligence-mit)
+- [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Stanford-CS221:-Artificial-Intelligence)
 - [CS 188 Introduction to Artificial Intelligence-2014](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#CS-188-Introduction-to-Artificial-Intelligence)
 
 **Machine Learning**
@@ -783,5 +784,20 @@ Introduction to Artificial Intelligence by UC Berkeley.
 - ...
 
 🔗 [Link to Course](https://web.archive.org/web/20181028164124/http://ai.berkeley.edu/course_schedule.html)
+
+---
+
+## Stanford CS221: Artificial Intelligence
+
+What is this course about? What do web search, speech recognition, face recognition, machine translation, autonomous driving, and automatic scheduling have in common? These are all complex real-world problems, and the goal of artificial intelligence (AI) is to tackle these with rigorous mathematical tools. In this course, you will learn the foundational principles that drive these applications and practice implementing some of these systems. Specific topics include machine learning, search, game playing, Markov decision processes, constraint satisfaction, graphical models, and logic. The main goal of the course is to equip you with the tools to tackle new AI problems you might encounter in life.
+
+- Linear Classifiers
+- Features, Neural Networks
+- Generalization, K-means
+- Dynamic Programming, Uniform cost search
+- Markov Descision Processes 1
+- ...
+
+🔗 [Link to Course](https://youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 
 ---
