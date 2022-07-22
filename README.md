@@ -8,21 +8,21 @@ In this repo, Some of the best and most recent courses.
 
 **Artificial Intelligence**
 
-- [6-034 MIT Artificial Intelligence](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#artificial-intelligence-mit)
-- [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Stanford-CS221:-Artificial-Intelligence)
-- [CS 188 Introduction to Artificial Intelligence-2014](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#CS-188-Introduction-to-Artificial-Intelligence)
+- [6-034 MIT Artificial Intelligence](#artificial-intelligence-mit)
+- [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](#Stanford-CS221:-Artificial-Intelligence)
+- [CS 188 Introduction to Artificial Intelligence-2014](#CS-188-Introduction-to-Artificial-Intelligence)
 
 **Machine Learning**
 
-- [Stanford CS229: Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#stanford-cs229-machine-learning)
-- [6-s897-machine-learning-for-healthcare-spring-2019](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Machine-Learning-For-Healthcare)
-- [Making Friends with Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#making-friends-with-machine-learning)
-- [Applied Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#applied-machine-learning)
-- [Introduction to Machine Learning (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#introduction-to-machine-learning-Tübingen)
-- [Introduction to machine learning (Munich)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Introduction-to-machine-learning-Munich)
-- [Statistical Machine Learning (Tübingen)](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#statistical-machine-learning-Tübingen)
-- [Probabilistic Machine Learning](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#probabilistic-machine-learning)
-- [Machine vision fall 2020](https://github.com/Basel-anaya/Roadmap-to-Machine-Learning-and-Deep-Learning-and-more/blob/main/README.md#Machine-Vision-Fall-2020)
+- [Stanford CS229: Machine Learning](#stanford-cs229-machine-learning)
+- [6-s897-machine-learning-for-healthcare-spring-2019](#Machine-Learning-For-Healthcare)
+- [Making Friends with Machine Learning](#making-friends-with-machine-learning)
+- [Applied Machine Learning](#applied-machine-learning)
+- [Introduction to Machine Learning (Tübingen)](#introduction-to-machine-learning-Tübingen)
+- [Introduction to machine learning (Munich)](#Introduction-to-machine-learning-Munich)
+- [Statistical Machine Learning (Tübingen)](#statistical-machine-learning-Tübingen)
+- [Probabilistic Machine Learning](#probabilistic-machine-learning)
+- [Machine vision fall 2020](#Machine-Vision-Fall-2020)
 
 **Deep Learning**
 
