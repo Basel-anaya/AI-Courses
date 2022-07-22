@@ -15,7 +15,7 @@ In this repo, Some of the best and most recent courses.
 **Machine Learning**
 
 - [Stanford CS229: Machine Learning](#stanford-cs229-machine-learning)
-- [6-s897-machine-learning-for-healthcare-spring-2019](#Machine-Learning-For-Healthcare)
+- [6-s897-machine-learning-for-healthcare-spring-2019](#Machine-Learning-for-Healthcare)
 - [Making Friends with Machine Learning](#making-friends-with-machine-learning)
 - [Applied Machine Learning](#applied-machine-learning)
 - [Introduction to Machine Learning (Tübingen)](#introduction-to-machine-learning-Tübingen)
