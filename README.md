@@ -9,7 +9,7 @@ In this repo, Some of the best and most recent courses.
 **Artificial Intelligence**
 
 - [6-034 MIT Artificial Intelligence](#artificial-intelligence-mit)
-- [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](#Stanford-CS221:-Artificial-Intelligence)
+- [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](#Stanford-CS221-Artificial-Intelligence)
 - [CS 188 Introduction to Artificial Intelligence-2014](#CS-188-Introduction-to-Artificial-Intelligence)
 
 **Machine Learning**
@@ -789,7 +789,7 @@ Introduction to Artificial Intelligence by UC Berkeley.
 
 ---
 
-## Stanford CS221: Artificial Intelligence
+## Stanford CS221 Artificial Intelligence
 
 What is this course about? What do web search, speech recognition, face recognition, machine translation, autonomous driving, and automatic scheduling have in common? These are all complex real-world problems, and the goal of artificial intelligence (AI) is to tackle these with rigorous mathematical tools. In this course, you will learn the foundational principles that drive these applications and practice implementing some of these systems. Specific topics include machine learning, search, game playing, Markov decision processes, constraint satisfaction, graphical models, and logic. The main goal of the course is to equip you with the tools to tackle new AI problems you might encounter in life.
 
